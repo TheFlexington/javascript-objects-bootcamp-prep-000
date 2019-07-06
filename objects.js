@@ -3,7 +3,7 @@ var playlist = {
   'My Bloody Valentine': "sometimes"
 };
 
-function updatePlaylist(obj, key, value) {
+function updatePlaylist() {
   playlist['Phil Ochs'] = "Here's to the State of Mississippi";
 }
 
